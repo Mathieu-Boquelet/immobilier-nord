@@ -2,7 +2,7 @@
 
 Dashboard interactif qui analyse les prix de l'immobilier dans le département du Nord (59) à partir des données DVF.
 
-🔗 **Démo en ligne : **
+🔗 **Démo en ligne : https://immobilier-nord.streamlit.app/ **
 
 ## Fonctionnalités
 - Classement des communes par prix médian au m² (croissant ou décroissant)
